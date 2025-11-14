@@ -1,2 +1,2 @@
 # Grocery-Store-Project
-This website creating using by mern stack technology . Mern stack include Mongo db,Express.js,React.js and Node.js.
+This website creating using by mern stack technology . Mern stack include Mongo db,Express.js,React.js and Node.js.In this Grocery store website includes Some pages and components As; home page,Product page,Seller and admin panel,owner panel,delivery page Driver pages,LOPgin Ragister page and More...
